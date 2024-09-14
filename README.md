@@ -51,3 +51,16 @@ Contributions are welcome to enhance **Smart Contact Manager**. To contribute:
 
 ## Screenshots
 
+![img1scm](https://github.com/user-attachments/assets/e0d39f7b-d29d-41b7-8d52-deac723823f2)
+![img2scm](https://github.com/user-attachments/assets/75fc2832-32cd-4576-b6f4-f95f3ad642c2)
+![img3scm](https://github.com/user-attachments/assets/5c8f6db1-fe9f-44c0-9d51-72eeef6c1f3e)
+![scm4](https://github.com/user-attachments/assets/f5ec0e40-7b26-424d-9700-21a8ff39d6f8)
+![scm5](https://github.com/user-attachments/assets/87be532b-37b1-46db-8b8d-ac6c538c018e)
+![scm6](https://github.com/user-attachments/assets/9e9ff979-2e05-485c-b61b-286b8e50ba8e)
+
+![scm3333](https://github.com/user-attachments/assets/5607f516-616e-43e7-b5c6-d6c5d15287ca)
+
+![scm4444444](https://github.com/user-attachments/assets/d76e6342-4486-41f7-8be0-fcd277cc0198)
+
+![scm7](https://github.com/user-attachments/assets/9bed8e56-0600-4e4d-b3a8-87c8a7ee471f)
+
